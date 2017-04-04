@@ -428,7 +428,7 @@ corrplot.mixed(cor(train[,-53]),lower="circle", upper="color",
                tl.pos="lt", diag="n", order="hclust", hclust.method="complete")
 ```
 
-![](predictionAssignment_files/figure-html/train data-1.png)<!-- -->
+![](predictionAssignment_files/figure-html/train_data-1.png)<!-- -->
 
 #### Cross-validation and PCA
 
